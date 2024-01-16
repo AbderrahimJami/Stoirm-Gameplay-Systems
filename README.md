@@ -6,3 +6,6 @@ Some of the Gameplay systems I got the chance to work and collaborate on during 
 Focusing on clean and well-structured code here are 2 important gameplay systems present in the game:
 + Quests System
 + Weapon System
+
+![alt text](https://github.com/AbderrahimJami/Stoirm-Gameplay-Systems/blob/main/STORM.png?raw=true)
+
