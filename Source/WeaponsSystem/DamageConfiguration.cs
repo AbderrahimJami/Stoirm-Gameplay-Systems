@@ -13,9 +13,7 @@ public class DamageConfiguration : ScriptableObject
     public MinMaxCurve DamageCurve;
 
 
-    /// <summary>
-    /// Resets the Damage curve mode to Curve... Whatever that means.. 
-    /// </summary>
+
     public void Reset()
     {
         DamageCurve.mode = ParticleSystemCurveMode.Curve;
